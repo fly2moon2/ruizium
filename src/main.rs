@@ -36,6 +36,7 @@ fn main() {
 
 
     // image programmatically
+    //https://github.com/image-rs/image/blob/master/examples/fractal.rs
     let imgx = 800;
     let imgy = 800;
 
